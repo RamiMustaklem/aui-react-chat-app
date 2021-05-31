@@ -32,7 +32,8 @@
     top: 10px;
     width: 40px;
     height: 40px;
-    background: #909090;
+    background: linear-gradient(to bottom, #00D0EA 0%, #0085D1 100%) fixed;
+    /*background: #909090;*/
     color: #fff;
     border: 0;
     outline: none;
